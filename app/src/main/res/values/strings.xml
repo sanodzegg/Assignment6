@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment6</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="you_re_not_signed_in_please_log_in">you`re not signed in, please log in</string>
+    <string name="email">Email</string>
+    <string name="lastname">lastName</string>
+    <string name="name">name</string>
+    <string name="sign_in">Sign in</string>
+    <string name="save">save</string>
+    <string name="save_number">save number</string>
+    <string name="if_you_don_t_have_an_account_please_sign_up">if you don`t have an account please, sign up</string>
+    <string name="deeplink">deeplink</string>
+</resources>
